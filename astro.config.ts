@@ -6,7 +6,8 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://darkn.bio",
+  site: "https://gamerwaves.github.io/darknweb/",
+  base: "/src/pages/index.astro/",
   output: "server",
   adapter: process.env.CF_PAGES === '1' ? cloudflare() : vercel({
     webAnalytics: {
