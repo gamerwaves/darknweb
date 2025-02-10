@@ -17,6 +17,7 @@
   </img>
 </p>
 <p align="center">
+  Deploy 1
   An open-sourced website with an easily accessible license, designed for simplicity, cleanliness, and usability.
 </p>
 <p align="center">
